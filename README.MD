@@ -7,9 +7,9 @@
 
 - Firstly, in a terminal you must be in the WEATHERAPP directory. cd into weather-service directory. If your npm version is correct, you need to run npm install, this will install all required packages and modules
 - To run the backend, run "npm start" once the npm install has finished
-- Then, you must be open a new terminal while keeping the WeatherService running. cd into weather-ui directory. If your npm version is correct, you need to run npm install, this will install all required packages and modules
+- Then, you must be open a new terminal while keeping the WeatherService running. cd into weather-fe directory. If your npm version is correct, you need to run npm install, this will install all required packages and modules
 - To run the frontend, run "npm start" once the npm install has finished
-- To run the tests, you can run npm test in both directories weather-service and weather-ui
+- To run the tests, you can run npm test in both directories weather-service and weather-fe
 
 ## Notes
 
